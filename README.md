@@ -4,7 +4,7 @@
 This is the template repository that you should use to upload your reports for each TP. Please include the names of the members of the team here below as a list:
 
 - Member 1 : DIAKITE ALPHA OUSMANE
-- Member 2 : KOSSI DAVID YAO
+- Member 2 : KOSSI YAO DAVID 
 - Member 3 : DREUILLE NATHAN
 
 You should use this repository as a **template** for yours. You can upload your repository on [github.com](https://github.com), [gitlab.ensimag.fr](https://gitlab.ensimag.fr) or [gricad-gitlab.univ-grenoble-alpes.fr](https://gricad-gitlab.univ-grenoble-alpes.fr/). Just make sure to include the URL for your public repository in the last column of this [spreadsheet](https://docs.google.com/spreadsheets/d/1uyknHZdo-aYezE2FsCAuc40igH8JJyGHZquvS-jjN3g/edit?usp=sharing).
